@@ -1,6 +1,6 @@
 galaxy_info:
   author: Shubham Bhardwaj
-  description: An Ansible Role to setup Yum package manager for Centos/Redhat/Fedors.
+  description: An Ansible Role to setup Yum package manager for Centos/Redhat/Fedora.
   company: Student
   role_name: yum_setup 
 
